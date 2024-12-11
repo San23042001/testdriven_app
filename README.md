@@ -12,8 +12,7 @@ The project follows a **Clean Architecture** and includes:
 
 - **`lib/`**: Contains the core application code, following domain-driven design principles.
 - **`test/`**: Unit and widget tests for TDD.
-- **`integration_test/`**: Integration tests for end-to-end workflows.
-- **`ci/`**: Configurations for the GitHub Actions CI/CD pipeline.
+- **`.github/`**: Configurations for the GitHub Actions CI/CD pipeline.
 
 ---
 
